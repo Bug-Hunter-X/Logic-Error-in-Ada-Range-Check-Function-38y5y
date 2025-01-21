@@ -1,0 +1,1 @@
+This repository contains an example of a common logic error in Ada code. The function `Check_Range` is intended to check if an integer is greater than 10, but due to an incorrect comparison, it always returns `False`. The solution demonstrates the correct implementation and highlights best practices to avoid such errors.
